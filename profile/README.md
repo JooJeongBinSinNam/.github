@@ -1,4 +1,4 @@
-## Java-Coding-Test-Study
+## 🍵 Java-Coding-Test-Study
 ### 📌 [스터디 규칙]
 > 1️⃣ 일주일 4문제 이상 </br>
 2️⃣ 공통 문제 3개 중 하나 이상은 꼭 풀기 </br>
